@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.495984,
+          38.342118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hotel",
+        "name": "Days Inn Fredericksburg North",
+        "address": "14 Simpson Lane, Fredericksburg, VA 22406"
+      }
+    },
+  
+}
