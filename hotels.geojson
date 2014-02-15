@@ -64,6 +64,21 @@
             "name":"Kenmore Inn",
             "address":"1200 Princess Anne Street, Fredericksburg, VA 22401"
          }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -77.078679,
+               38.929386
+            ]
+         },
+         "properties":{
+            "marker-symbol":"heart",
+            "name":"The Westchester",
+            "address":"4000 Cathedral Ave. NW, Washington, D.C 20016"
+         }
       }
    ]
 }
