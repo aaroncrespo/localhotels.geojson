@@ -1,6 +1,43 @@
 {
    "type":"FeatureCollection",
    "features":[
+         {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -77.461971,
+               38.305457,
+               1
+            ]
+         },
+         "properties":{
+            "marker-symbol":"heart",
+            "name":"Kenmore Inn",
+            "address":"1200 Princess Anne Street, Fredericksburg, VA 22401",
+            "phone":"540-371-7622",
+            "info":"Bed & Breakfast"
+         }
+      },
+
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -77.457886,
+               38.301265
+            ]
+         },
+         "properties":{
+            "marker-symbol":"lodging",
+            "name":"Richard Johnston Inn",
+            "address": "711 Caroline Street, Fredericksburg, VA 22401",
+            "info":"Free parking",
+            "phone":"(540) 899-7606",
+            "link":"http://www.therichardjohnstoninn.com/"
+         }
+      },
       {
          "type":"Feature",
          "geometry":{
@@ -48,23 +85,6 @@
             "name":"Courtyard Marriott Fredericksburg Historic District",
             "address":"620 Caroline Street,  Fredericksburg, VA 22401",
             "phone":"(540) 373-8300"
-         }
-      },
-      {
-         "type":"Feature",
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -77.461971,
-               38.305457
-            ]
-         },
-         "properties":{
-            "marker-symbol":"heart",
-            "name":"Kenmore Inn",
-            "address":"1200 Princess Anne Street, Fredericksburg, VA 22401",
-            "phone":"540-371-7622",
-            "info":"Bed & Breakfast"
          }
       },
       {
